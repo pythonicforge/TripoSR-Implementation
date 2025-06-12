@@ -45,12 +45,19 @@ Built on top of the [PyImageSearch blog tutorial]([https://pyimagesearch.com/](h
 After running the notebook, your `output/` folder will look like this:
 
 output/
+<br/>
 └── 0/
+<br/>
 ├── input.png # Processed input image
+<br/>
 ├── render_000.png # 30 rendered views
+<br/>
 ├── render_001.png
+<br/>
 ├── ...
+<br/>
 ├── render.mp4 # Turntable video
+<br/>
 └── mesh.obj # Exported mesh
 
 <br/>
